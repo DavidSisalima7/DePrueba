@@ -16,6 +16,11 @@ public class PruebaGit {
      */
     public static void main(String[] args) {
         System.out.println("Prueba repositorio git");
+        int num1=5;
+        int num2=3;
+        int resultado=0;
+        resultado=num1+num2;
+        System.out.println(resultado);
     }
     
 }
